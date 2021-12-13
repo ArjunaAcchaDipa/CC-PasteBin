@@ -7,7 +7,7 @@ This repository was made to fulfill the assignment of **Programming of Penetrati
 ## Table of contents
 * [Technology](#technology)
 * [Installation](#installation)
-* [User Credentials for Login](#user-credentials-for-login)
+* [Telegram Bot Example](#telegram-bot-example)
 * [References](#references)
 
 ## Technology
@@ -34,6 +34,10 @@ $ cp .env.example .env
 # Run the program using python3.
 $ python3 hostReconnaissance.py
 ```
+
+## Telegram Bot Example
+
+![](img/resultExample.jpg)
 
 ## References
 - BA07 - Programming for Penetration Testing Lab Class
