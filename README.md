@@ -4,7 +4,7 @@ C&C-Pastebin is a **Host Reconnaissance** script that can be run in the victim m
 
 This repository was made to fulfill the assignment of **Programming of Penetration Testing**.
 
-## Table of contents
+## Table of Contents
 * [Prerequisite and Technology](#prerequisite-and-technology)
 * [Installation](#installation)
 * [Telegram Bot Example](#telegram-bot-example)
