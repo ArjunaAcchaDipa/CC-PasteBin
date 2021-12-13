@@ -5,13 +5,19 @@ C&C-Pastebin is a **Host Reconnaissance** script that can be run in the victim m
 This repository was made to fulfill the assignment of **Programming of Penetration Testing**.
 
 ## Table of contents
-* [Technology](#technology)
+* [Prerequisite and Technology](#prerequisite-and-technology)
 * [Installation](#installation)
 * [Telegram Bot Example](#telegram-bot-example)
 * [References](#references)
 
-## Technology
-- Python 3
+## Prerequisite and Technology
+- Python 3 libraries
+    - decouple
+    - sys
+    - subprocess
+    - base64
+    - requests.api
+    - telegram_send
 - Pastebin API
 - Telegram API
 
