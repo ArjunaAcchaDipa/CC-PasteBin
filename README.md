@@ -37,6 +37,9 @@ $ cp .env.example .env
 # To set the telegram bot, check this article
 # https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580
 
+# Make Pastebin account and request API
+# Set up the needed API in .env
+
 # Run the program using python3.
 $ python3 hostReconnaissance.py
 ```
